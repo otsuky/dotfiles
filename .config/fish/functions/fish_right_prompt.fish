@@ -1,0 +1,1 @@
+/Users/uu167856/.config/fisherman/bobthefish/fish_right_prompt.fish
