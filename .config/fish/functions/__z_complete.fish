@@ -1,1 +1,0 @@
-/Users/uu167856/.config/fisherman/z/functions/__z_complete.fish
